@@ -1,0 +1,5 @@
+Dmitriy Benevelskyi: Internet browser in cat style
+Your project is super cool! I loved the cats design :D 
+It is a very singular idea, I love that! You used some of the concepts we learned in class like OOP and a very complete module (PyQt5).
+Your code is clear and easy to follow. I just wish you could use more concepts like API, databases and more from OOP.
+I am not sure how you could use in this project specific, but I am sure this could be implemented somehow.
